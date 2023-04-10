@@ -1,0 +1,43 @@
+body{
+    background: rgb(34,195,92);
+    background:  linear-gradient(0deg, rgba(34,195,92,1) 0%, rgba(253,214,45,1) 100%);
+    background-size: cover;
+    background-position: center;
+}
+
+.login-portal{
+max-width: 700px;
+float: none;
+margin: 150px auto;
+}
+
+.login-left{
+background: rgba(211, 211, 211, 0.5);
+padding: 30px;
+}
+
+.login-right{
+    background: #fff;
+    padding: 30px;
+}
+
+.form-control{
+    background-color: transparent !important;
+}
+
+.sticky-footer{
+    background-color: #fdd62d;
+}
+
+a{
+color: #fff;
+margin-top: -280px !important;
+text-decoration: none;
+}
+
+h1{
+    color: #fff !important;
+    margin-top: 200px !important;
+    text-align: center;
+    text-transform: uppercase;
+}
